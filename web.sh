@@ -3,35 +3,7 @@
 # Bước 1: Danh sách các website
 websites=(
     "lapmangfpttelecomnet.taigamechoandroid.net"
-	"lapmangfpttelecomnet.tapdoandatxanh.vn"
-	"lapmangfpttelecomnet.tegza.com"
-	"lapmangfpttelecomnet.thuthuatlaptop.com"
-	"lapmangfpttelecomnet.tieudungtot.vn"
-	"lapmangfpttelecomnet.tipshay5s.xyz"
-	"lapmangfpttelecomnet.top123.vn"
-	"lapmangfpttelecomnet.trangsucdathiennhien.com"
-	"lapmangfpttelecomnet.tranthangit.xyz"
-	"lapmangfpttelecomnet.trungtamphanmemvn.com"
-	"lapmangfpttelecomnet.tanphong.net"
-	"lapmangfpttelecomnet.techphukien.com"
-	"lapmangfpttelecomnet.thaotruong.com"
-	"lapmangfpttelecomnet.thuvienkhoahoc.io.vn"
-	"lapmangfpttelecomnet.tikibook.com"
-	"lapmangfpttelecomnet.toitantinh.com"
-	"lapmangfpttelecomnet.trangiahung.com"
-	"lapmangfpttelecomnet.trangtainhac.mobi"
-	"lapmangfpttelecomnet.trend.com.vn"
-	"lapmangfpttelecomnet.tudiendanchoi.com"
-	"lapmangfpttelecomnet.utopiax.online"
-	"lapmangfpttelecomnet.visuhoclatrondoi.com"
-	"lapmangfpttelecomnet.vnnews8.com"
-	"lapmangfpttelecomnet.wanhxinh.com"
-	"lapmangfpttelecomnet.webdanhgia.net"
-	"lapmangfpttelecomnet.yeuapkreview.com"
-	"lapmangfpttelecomnet.vinhat.com"
-	"lapmangfpttelecomnet.vnll.com.vn"
-	"lapmangfpttelecomnet.vuiit.net"
-	"lapmangfpttelecomnet.thủthuậthay.vn"
+	
 )
 
 # Bước 2: Tạo website trên cyberpanel
